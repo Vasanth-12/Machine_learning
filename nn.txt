@@ -2,7 +2,12 @@ Neurla network will be coming soon...
 
 It will consists of
 	*sigmoid_function
-	*derivitives of sigmoid_func
+		-> activation function
+	*derivatives of sigmoid_func
+		-> derivation of activation function
 	*forward Propagation
+		-> weigths and activation of previous layer nodes
 	*backpropagation
+		-> adjusting the weights
 	*and finally prediction
+		-> make prediction for given values
