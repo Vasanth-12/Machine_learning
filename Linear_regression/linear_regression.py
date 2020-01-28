@@ -1,3 +1,4 @@
+#adding comment line from GUI
 from numpy import *
 
 def compute_error_function(m,c,pt):
