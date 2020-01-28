@@ -1,1 +1,8 @@
 Neurla network will be coming soon...
+
+It will consists of
+	*sigmoid_function
+	*derivitives of sigmoid_func
+	*forward Propagation
+	*backpropagation
+	*and finally prediction
