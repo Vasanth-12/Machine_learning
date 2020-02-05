@@ -11,3 +11,7 @@ It will consists of
 		-> adjusting the weights
 	*and finally prediction
 		-> make prediction for given values
+
+get some mathmatical and program knowledge.
+
+
