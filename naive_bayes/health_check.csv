@@ -1,0 +1,9 @@
+chills,runny_nose,headache,fever,flu
+y,n,mild,y,no
+y,y,no,n,yes
+y,n,strong,y,yes
+n,y,mild,y,yes
+n,n,no,n,no
+n,y,strong,y,yes
+n,y,strong,n,no
+y,y,mild,y,yes
